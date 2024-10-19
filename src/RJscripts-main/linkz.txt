@@ -1,0 +1,27 @@
+References:
+
+https://github.com/0x000NULL/CSSR
+
+https://github.com/aunderwood9417/Linux-Checklist-master 
+
+https://github.com/03npan/cyberpatriot-linux-scripts/blob/main/script.sh
+
+https://github.com/TheDeveloper101/cyberpatriot-linux-script/blob/main/linux.sh
+
+https://github.com/Toe-ster/linuxChecklist
+
+https://github.com/wjtaylor-games/cyberpatriot-linux-2020
+
+https://github.com/hufflegamer123/GodModeButForLinux
+
+https://github.com/hufflegamer123/PatriotWare
+
+https://github.com/TheHeroBrine422/cyberpatriot-scripts/tree/main
+
+https://github.com/CyberCyber2/CyberPatriot (might be a bit outdated)
+
+https://github.com/CyberCyber2/Automation (might be a bit outdated)
+
+https://github.com/Kirito-Kun07/unixsecur1ty
+
+try these

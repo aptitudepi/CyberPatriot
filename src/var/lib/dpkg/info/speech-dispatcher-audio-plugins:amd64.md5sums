@@ -1,0 +1,7 @@
+367c90710b9a8bb2345e749f3764b176  usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_alsa.so
+3c0ba331c1ebbbacc2bd6960039e1456  usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_libao.so
+d0178f365c86fd8f2ca3b44ad130ac5e  usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_nas.so
+94489d8bde2ff1508260942a60826cd0  usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_oss.so
+cf5e2b3c59acac02593cf6378bc92e85  usr/lib/x86_64-linux-gnu/speech-dispatcher/spd_pulse.so
+8269d34c49e59a0cf368e5dcdae0ec6a  usr/share/doc/speech-dispatcher-audio-plugins/changelog.Debian.gz
+89ec0ffe68fcefba9177ec519d31b52d  usr/share/doc/speech-dispatcher-audio-plugins/copyright

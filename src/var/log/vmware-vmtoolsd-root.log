@@ -1,0 +1,4 @@
+[2022-01-22T05:18:49.085Z] [ message] [vmtoolsd] [1939] Log caching is enabled with maxCacheEntries=4096.
+[2022-01-22T05:18:49.088Z] [ message] [vmtoolsd] [1939] Core dump limit set to -1
+[2022-01-22T05:38:42.662Z] [ message] [vmtoolsd] [614] Log caching is enabled with maxCacheEntries=4096.
+[2022-01-22T05:38:42.663Z] [ message] [vmtoolsd] [614] Core dump limit set to -1

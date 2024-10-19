@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/fonts-roboto-slab
+/usr/share/doc/fonts-roboto-slab/changelog.Debian.gz
+/usr/share/doc/fonts-roboto-slab/copyright
+/usr/share/fonts
+/usr/share/fonts/truetype
+/usr/share/fonts/truetype/roboto
+/usr/share/fonts/truetype/roboto/slab
+/usr/share/fonts/truetype/roboto/slab/RobotoSlab-Bold.ttf
+/usr/share/fonts/truetype/roboto/slab/RobotoSlab-Light.ttf
+/usr/share/fonts/truetype/roboto/slab/RobotoSlab-Regular.ttf
+/usr/share/fonts/truetype/roboto/slab/RobotoSlab-Thin.ttf

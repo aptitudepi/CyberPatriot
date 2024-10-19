@@ -1,0 +1,8 @@
+74645c1eb2c1ada41e6616c97ff5555a  usr/share/doc/libbcpkix-java/README.Debian
+43677b1148b509f9cad5c05969f3881e  usr/share/doc/libbcpkix-java/changelog.Debian.gz
+d8c840bf8b9ddd904eb83980c9466b90  usr/share/doc/libbcpkix-java/changelog.gz
+55325c331249c59e72ae504535165f52  usr/share/doc/libbcpkix-java/changelog.html.gz
+b6441db5109cd308fb1d9109ce81a743  usr/share/doc/libbcpkix-java/copyright
+08be05a6789cafa538ead599077f071d  usr/share/java/bcpkix-1.58.jar
+47b3e44ad897be4665a41e650dec5c6e  usr/share/maven-repo/org/bouncycastle/bcpkix/1.58/bcpkix-1.58.pom
+645bc8b9a135847f0954c3d65b2cb405  usr/share/maven-repo/org/bouncycastle/bcpkix/debian/bcpkix-debian.pom

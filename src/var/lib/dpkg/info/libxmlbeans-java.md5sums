@@ -1,0 +1,10 @@
+6e477446ce748980364b7dfdcf9401df  usr/share/doc/libxmlbeans-java/README.Debian
+c5eb3f5839cfad4813c4d3acc3391337  usr/share/doc/libxmlbeans-java/changelog.Debian.gz
+09c6ccb43720ea91b4ce95a9a991057f  usr/share/doc/libxmlbeans-java/changelog.gz
+4d6148308e1503f013aed7e1debdd216  usr/share/doc/libxmlbeans-java/copyright
+6ceb58043e703cbb0455c84ed624c458  usr/share/java/xmlbeans-3.0.2.jar
+af47d2b60d33fd9f35abd2f365d21280  usr/share/java/xmlbeans-xpath-3.0.2.jar
+20a7dcde840863b82bfaeab13751bf54  usr/share/maven-repo/org/apache/xmlbeans/xmlbeans-xpath/3.0.2/xmlbeans-xpath-3.0.2.pom
+9b5b8f62936e9d282eb708e8f6071e2c  usr/share/maven-repo/org/apache/xmlbeans/xmlbeans-xpath/debian/xmlbeans-xpath-debian.pom
+5c3f07105d879673890b5bdcd0c449dc  usr/share/maven-repo/org/apache/xmlbeans/xmlbeans/3.0.2/xmlbeans-3.0.2.pom
+afc8509d38161ed6c6756f2c9403633f  usr/share/maven-repo/org/apache/xmlbeans/xmlbeans/debian/xmlbeans-debian.pom

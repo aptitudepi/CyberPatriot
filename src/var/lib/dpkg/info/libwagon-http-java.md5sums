@@ -1,0 +1,11 @@
+3b1a79175e11279482830b8fa005f59d  usr/share/doc/libwagon-http-java/changelog.Debian.gz
+c7660d222f4319fbc428bb30773b259a  usr/share/doc/libwagon-http-java/copyright
+8fe6b0ec38d7c788e92f3376adf4ac8e  usr/share/java/wagon-http-lightweight.jar
+d768bef82489e9d37f8eb581ebd58bb6  usr/share/java/wagon-http-shared.jar
+509241a21f5854a5262ddf8a58269c5a  usr/share/java/wagon-http.jar
+7ff39260f4892146388430e0bdeb0424  usr/share/maven-repo/org/apache/maven/wagon/wagon-http-lightweight/3.3.1/wagon-http-lightweight-3.3.1.pom
+007e490d937e564d542c97d7977da706  usr/share/maven-repo/org/apache/maven/wagon/wagon-http-lightweight/debian/wagon-http-lightweight-debian.pom
+91d198af26657e6d3bd7938ffdfd4e50  usr/share/maven-repo/org/apache/maven/wagon/wagon-http-shared/3.3.1/wagon-http-shared-3.3.1.pom
+ee068c7093f58daeffc534d69ec52656  usr/share/maven-repo/org/apache/maven/wagon/wagon-http-shared/debian/wagon-http-shared-debian.pom
+a329a8b19b746e91bdbff0805341ad58  usr/share/maven-repo/org/apache/maven/wagon/wagon-http/3.3.1/wagon-http-3.3.1.pom
+dc72b09feb8567d64818ededb6943505  usr/share/maven-repo/org/apache/maven/wagon/wagon-http/debian/wagon-http-debian.pom

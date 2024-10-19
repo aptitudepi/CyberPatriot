@@ -1,0 +1,10 @@
+112272e51c80ffe5bd01becd2ce7d656  usr/lib/nodejs/normalize.css/normalize.css
+22a47e5f911b3e48d6ed58ebc95a2b6c  usr/lib/nodejs/normalize.css/package.json
+5b0fe7abc076a57788a22523ac76b3b5  usr/share/doc/node-normalize.css/README.md
+72532c753417c6209c67b0182db9a0c0  usr/share/doc/node-normalize.css/changelog.Debian.gz
+d44b75fce3096cb3baac69bd252e3a69  usr/share/doc/node-normalize.css/changelog.gz
+689be3d8afee83c316e2bb60d50a2a44  usr/share/doc/node-normalize.css/copyright
+4250228fb6a75849bc06128eee0a10b3  usr/share/doc/node-normalize.css/examples/test.html
+4c876c3f72695d67ac60a8892e5aaeaf  usr/share/doc/node-normalize.css/examples/test.svg
+ce9c3ab654934c729928633918b0f68e  usr/share/javascript/normalize.css/normalize.min.css
+8b133695ec85924dd5e3ef8db602930c  usr/share/lintian/overrides/node-normalize.css

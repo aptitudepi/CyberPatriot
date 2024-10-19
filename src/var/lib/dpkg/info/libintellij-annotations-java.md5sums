@@ -1,0 +1,6 @@
+7a4002b4d9b2c342b6630d17db33fb45  usr/share/doc/libintellij-annotations-java/changelog.Debian.gz
+cb9069cfabcf93f490bafe91976c2020  usr/share/doc/libintellij-annotations-java/copyright
+7f6711f224c6518e9c0a528ba58776bc  usr/share/maven-repo/com/intellij/annotations/17.0.0-SNAPSHOT/annotations-17.0.0-SNAPSHOT.pom
+326e20401831aa27d0035777c5f116cd  usr/share/maven-repo/com/intellij/annotations/debian/annotations-debian.pom
+48382cd9e781d1a21168f702d4d6e3ac  usr/share/maven-repo/com/intellij/common/17.0.0-SNAPSHOT/common-17.0.0-SNAPSHOT.pom
+1191e1102f7937205a7aa5c957604f14  usr/share/maven-repo/com/intellij/common/debian/common-debian.pom

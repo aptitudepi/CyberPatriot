@@ -1,0 +1,7 @@
+fd18af024277a1b176fbd4029e882a5a  usr/share/doc/libsisu-plexus-java/changelog.Debian.gz
+6911563a14eccf8227044fb049fc86b5  usr/share/doc/libsisu-plexus-java/copyright
+2e72ee4a05956ea7c71fc574a1b45897  usr/share/java/sisu-plexus.jar
+b9df08da09d1e258dc8a11356a54a711  usr/share/maven-repo/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.3/org.eclipse.sisu.plexus-0.3.3.pom
+da34e9f85eb646877cf5060ad4cc21b9  usr/share/maven-repo/org/eclipse/sisu/org.eclipse.sisu.plexus/debian/org.eclipse.sisu.plexus-debian.pom
+36eb49d5df543107b9596d7a864db5c8  usr/share/maven-repo/org/eclipse/sisu/sisu-plexus/0.3.3/sisu-plexus-0.3.3.pom
+2042f0600b0b4653201f6ae12a4f8dd8  usr/share/maven-repo/org/eclipse/sisu/sisu-plexus/debian/sisu-plexus-debian.pom

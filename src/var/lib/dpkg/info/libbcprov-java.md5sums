@@ -1,0 +1,8 @@
+4cb6b649bd7c532cc088111cdbfeeac9  usr/share/doc/libbcprov-java/README.Debian
+43677b1148b509f9cad5c05969f3881e  usr/share/doc/libbcprov-java/changelog.Debian.gz
+d8c840bf8b9ddd904eb83980c9466b90  usr/share/doc/libbcprov-java/changelog.gz
+55325c331249c59e72ae504535165f52  usr/share/doc/libbcprov-java/changelog.html.gz
+b6441db5109cd308fb1d9109ce81a743  usr/share/doc/libbcprov-java/copyright
+d886ca9ffe77ae35c7e4ae01c3adb94c  usr/share/java/bcprov-1.58.jar
+ab4c2a95a01c29281991f7cd0f2bd504  usr/share/maven-repo/org/bouncycastle/bcprov/1.58/bcprov-1.58.pom
+492f25e64ea5a3911445faee0ec9e858  usr/share/maven-repo/org/bouncycastle/bcprov/debian/bcprov-debian.pom

@@ -1,0 +1,7 @@
+8ff247b05c65847b4e294fb168e8cab7  usr/bin/xbrlapi
+8fa638a07bf667f4880a09563385c4de  usr/share/doc/xbrlapi/NEWS.Debian.gz
+09357702ea887ab3aa67b5e99aad5fd6  usr/share/doc/xbrlapi/changelog.Debian.gz
+7b29a6fa464f1e148847251b8e5fcc35  usr/share/doc/xbrlapi/changelog.gz
+dad34d299a1b7b6bf01a804a2766129e  usr/share/doc/xbrlapi/copyright
+f46baa0d51716595e0db3aceac3feebd  usr/share/gdm/greeter/autostart/xbrlapi.desktop
+f54223c101b29fe5063bb6cbbe996527  usr/share/man/man1/xbrlapi.1.gz

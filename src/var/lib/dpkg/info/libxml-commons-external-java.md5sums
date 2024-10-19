@@ -1,0 +1,8 @@
+de6be690a63ffebaf166fd4050f3acf2  usr/share/doc/libxml-commons-external-java/changelog.Debian.gz
+0f1bf4a429fd3e0c0bffb40f9d8c0750  usr/share/doc/libxml-commons-external-java/copyright
+097e3a06891a6753188a4d256b64c174  usr/share/java/xml-apis-1.4.01.jar
+218a0e79c50bcab8a84c6c47105d6ec6  usr/share/java/xml-apis-ext-1.4.01.jar
+f9bdd1e3d8aca2fec0e392894aacd6a4  usr/share/maven-repo/xml-apis/xml-apis-1.4/1.4.01/xml-apis-1.4-1.4.01.pom
+282f070b5bf12cf6bea389aa87dd55bd  usr/share/maven-repo/xml-apis/xml-apis-1.4/debian/xml-apis-1.4-debian.pom
+c6de737be70b9dc749b2a9be35307285  usr/share/maven-repo/xml-apis/xml-apis-ext/1.4.01/xml-apis-ext-1.4.01.pom
+671b6f95312ad41a8160c69afaaa4057  usr/share/maven-repo/xml-apis/xml-apis-ext/debian/xml-apis-ext-debian.pom

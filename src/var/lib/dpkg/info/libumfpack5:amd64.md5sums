@@ -1,0 +1,6 @@
+ae523efba18992d132ef178429547d58  usr/lib/x86_64-linux-gnu/libumfpack.so.5.7.8
+b73f568d625b203ab463c9b6a662cdad  usr/share/doc/libumfpack5/NEWS.Debian.gz
+f71a6fe1b54f1e5be2f85e4bb0fe44f1  usr/share/doc/libumfpack5/changelog.Debian.gz
+1efe530db663d406248b5255c81f8c98  usr/share/doc/libumfpack5/changelog.gz
+e2a9d5f2e449414473e01bb7c56aaef3  usr/share/doc/libumfpack5/copyright
+99ac89e50d7e5b7dd6ef95718ad60ad0  usr/share/lintian/overrides/libumfpack5

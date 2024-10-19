@@ -1,0 +1,28 @@
+touch: /dev/.initramfs/lupin-waited-for-devs: No such file or directory
+cp: can't stat '/custom-installation/initrd-override/*': No such file or directory
+cp: can't stat '/custom-installation/iso-override/*': No such file or directory
+Generating locales (this might take a while)...
+Generation complete.
+grep: /root/floppy/preseed.cfg: No such file or directory
+passwd: password expiry information changed.
+dbus-daemon[3107]: [session uid=999 pid=3107] Activating service name='org.gtk.vfs.Daemon' requested by ':1.0' (uid=999 pid=3108 comm="" label="unconfined")
+dbus-daemon[3107]: [session uid=999 pid=3107] Successfully activated service 'org.gtk.vfs.Daemon'
+dbus-daemon[3107]: [session uid=999 pid=3107] Activating service name='org.gtk.vfs.Metadata' requested by ':1.0' (uid=999 pid=3108 comm="" label="unconfined")
+fuse: device not found, try 'modprobe fuse' first
+dbus-daemon[3107]: [session uid=999 pid=3107] Successfully activated service 'org.gtk.vfs.Metadata'
+A connection to the bus can't be made
+Using CD-ROM mount point /cdrom/
+Identifying... [2f4250f7e09ee7947a55d3719c198933-2]
+Scanning disc for index files...
+Found 2 package indexes, 0 source indexes, 0 translation indexes and 1 signatures
+Found label 'Ubuntu 20.04.1 LTS _Focal Fossa_ - Release amd64 (20200731)'
+This disc is called: 
+'Ubuntu 20.04.1 LTS _Focal Fossa_ - Release amd64 (20200731)'
+Copying package lists...gpgv: Signature made Fri Jul 31 16:48:33 2020 UTC
+gpgv:                using RSA key 843938DF228D22F7B3742BC0D94AA3F0EFE21092
+gpgv: Good signature from "Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>"
+Reading Package Indexes... 0%Reading Package Indexes... Done
+Writing new source list
+Source list entries for this disc are:
+deb cdrom:[Ubuntu 20.04.1 LTS _Focal Fossa_ - Release amd64 (20200731)]/ focal main restricted
+Repeat this process for the rest of the CDs in your set.

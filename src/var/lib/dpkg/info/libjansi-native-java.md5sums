@@ -1,0 +1,6 @@
+1500f05445a91eb8004088cb789c14b3  usr/share/doc/libjansi-native-java/changelog.Debian.gz
+53796afa2521ce226e88dfebbd1b6367  usr/share/doc/libjansi-native-java/changelog.gz
+cf9b6cff9f78b9a9f14a94e997dbda06  usr/share/doc/libjansi-native-java/copyright
+1ab7ad54edd382d361daadbaff776724  usr/share/java/jansi-native.jar
+e2351af89610f67704519766822f03f1  usr/share/maven-repo/org/fusesource/jansi/jansi-native/1.8/jansi-native-1.8.pom
+a5217cd01ffd1b8575dd1c7660e6af82  usr/share/maven-repo/org/fusesource/jansi/jansi-native/debian/jansi-native-debian.pom

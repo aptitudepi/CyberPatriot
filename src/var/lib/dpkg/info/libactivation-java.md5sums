@@ -1,0 +1,9 @@
+8931c0295fa4b1e48c25ab5b47b7e778  usr/share/doc/libactivation-java/changelog.Debian.gz
+124e7ae3a817151497fe509c5a2b3a4c  usr/share/doc/libactivation-java/copyright
+2f74183d1ea3a1a3d388905012a0fa47  usr/share/java/javax.activation.jar
+7a4763cef3ce02b4aa51f7ca3cb48d3f  usr/share/maven-repo/com/sun/activation/all/1.2.0/all-1.2.0.pom
+c48b9216ab7732d2f0f70102aa4e3f2a  usr/share/maven-repo/com/sun/activation/all/debian/all-debian.pom
+94530efa1b40674e78ad3b51e3ad5c2e  usr/share/maven-repo/com/sun/activation/javax.activation/1.2.0/javax.activation-1.2.0.pom
+4e18325cd12a3b5da680179994ba9630  usr/share/maven-repo/com/sun/activation/javax.activation/debian/javax.activation-debian.pom
+bd90e7ca7c8e9c8466ca707dd48e4434  usr/share/maven-repo/javax/activation/activation/debian/activation-debian.pom
+08a9336d9d324d44cf53af1f01276e60  usr/share/maven-repo/javax/activation/javax.activation-api/debian/javax.activation-api-debian.pom

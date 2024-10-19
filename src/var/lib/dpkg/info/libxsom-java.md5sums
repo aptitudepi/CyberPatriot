@@ -1,0 +1,6 @@
+9a04ea0fa87e7237a4e651f9bdcb6c99  usr/share/doc/libxsom-java/changelog.Debian.gz
+402008202b01004c934b99f9160420fc  usr/share/doc/libxsom-java/copyright
+81da52121c6e05ad4d487c5cbf1d0cae  usr/share/java/xsom.jar
+7bfa5bf16bc7af34a8441d49d7d70096  usr/share/maven-repo/com/sun/xsom/xsom/debian/xsom-debian.pom
+4f34bb028404a395ab9ca37c26da6838  usr/share/maven-repo/org/glassfish/jaxb/xsom/2.3.0.1/xsom-2.3.0.1.pom
+fcda5c78e644512cb930863442ffb8f3  usr/share/maven-repo/org/glassfish/jaxb/xsom/debian/xsom-debian.pom

@@ -1,0 +1,6 @@
+584bed417ac2b1dc8bcdc1aa3c0b79ea  usr/share/doc/libxz-java/changelog.Debian.gz
+5ed929dbd48e9b57fb6574a77d9771ec  usr/share/doc/libxz-java/changelog.gz
+427c805d15247a6ea2447425c77c7c83  usr/share/doc/libxz-java/copyright
+782506f9dec31bc9d0ac34d0c8997799  usr/share/java/xz-1.8.jar
+944faa21e4817f934bc342016a1dc345  usr/share/maven-repo/org/tukaani/xz/1.8/xz-1.8.pom
+4d95c1711cc2acefa8e73bb0fbf4d896  usr/share/maven-repo/org/tukaani/xz/debian/xz-debian.pom

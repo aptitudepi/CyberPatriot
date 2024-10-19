@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libservlet3.1-java
+/usr/share/doc/libservlet3.1-java/changelog.Debian.gz
+/usr/share/doc/libservlet3.1-java/copyright
+/usr/share/java
+/usr/share/maven-repo
+/usr/share/maven-repo/javax
+/usr/share/maven-repo/javax/servlet
+/usr/share/maven-repo/javax/servlet/javax.servlet-api
+/usr/share/maven-repo/javax/servlet/javax.servlet-api/3.1
+/usr/share/maven-repo/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.pom
+/usr/share/java/servlet-api-3.1.jar
+/usr/share/maven-repo/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.jar

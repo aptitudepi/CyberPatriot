@@ -1,0 +1,16 @@
+Jan 22 01:31:12 debian systemd-logind[453]: New seat seat0.
+Jan 22 01:31:12 debian systemd-logind[453]: Watching system buttons on /dev/input/event1 (Power Button)
+Jan 22 01:31:12 debian systemd-logind[453]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+Jan 22 01:31:13 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Jan 22 01:31:13 debian systemd-logind[453]: New session c1 of user lightdm.
+Jan 22 01:31:13 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Jan 22 01:31:22 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Jan 22 01:31:22 debian systemd-logind[453]: Removed session c1.
+Jan 22 01:31:22 debian lightdm: pam_unix(lightdm:session): session opened for user edubs by (uid=0)
+Jan 22 01:31:22 debian systemd-logind[453]: New session 2 of user edubs.
+Jan 22 01:31:22 debian systemd: pam_unix(systemd-user:session): session opened for user edubs by (uid=0)
+Jan 22 01:31:22 debian polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.47 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Jan 22 01:31:32 debian systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Jan 22 01:32:24 debian sudo:    edubs : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/edubs ; USER=root ; COMMAND=/usr/bin/su
+Jan 22 01:32:32 debian su: (to root) edubs on pts/0
+Jan 22 01:32:32 debian su: pam_unix(su:session): session opened for user root by (uid=1000)

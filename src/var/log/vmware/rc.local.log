@@ -1,0 +1,109 @@
++ eject sr0
+eject: unable to eject, last error: Inappropriate ioctl for device
++ true
++ eject sr1
+eject: unable to eject, last error: Inappropriate ioctl for device
++ true
++ count=0
++ found=0
++ cp /etc/apt/sources.list /etc/apt/sources.bak
++ sed -i -e 's/^deb.cdrom/#deb cdrom/' /etc/apt/sources.list
++ '[' 0 -lt 3 ']'
++ count=1
++ nslookup us.archive.ubuntu.com -timeout=4
++ '[' 0 -eq 0 ']'
++ found=1
++ break
++ '[' 1 -eq 1 ']'
++ apt-get update
+Hit:1 http://us.archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://us.archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:3 http://us.archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Reading package lists...
++ apt-get install -q -y --force-yes --no-install-recommends open-vm-tools
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libmspack0 libxmlsec1 libxmlsec1-openssl
+Suggested packages:
+  open-vm-tools-desktop cloud-init
+Recommended packages:
+  ethtool zerofree
+The following NEW packages will be installed:
+  libmspack0 libxmlsec1 libxmlsec1-openssl open-vm-tools
+0 upgraded, 4 newly installed, 0 to remove and 434 not upgraded.
+Need to get 888 kB of archives.
+After this operation, 4,093 kB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libmspack0 amd64 0.10.1-2 [38.0 kB]
+Get:2 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxmlsec1 amd64 1.2.28-2 [127 kB]
+Get:3 http://us.archive.ubuntu.com/ubuntu focal/main amd64 libxmlsec1-openssl amd64 1.2.28-2 [75.9 kB]
+Get:4 http://us.archive.ubuntu.com/ubuntu focal-updates/universe amd64 open-vm-tools amd64 2:11.3.0-2ubuntu0~ubuntu20.04.2 [647 kB]
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+Fetched 888 kB in 1s (611 kB/s)
+Selecting previously unselected package libmspack0:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 156198 files and directories currently installed.)
+Preparing to unpack .../libmspack0_0.10.1-2_amd64.deb ...
+Unpacking libmspack0:amd64 (0.10.1-2) ...
+Selecting previously unselected package libxmlsec1:amd64.
+Preparing to unpack .../libxmlsec1_1.2.28-2_amd64.deb ...
+Unpacking libxmlsec1:amd64 (1.2.28-2) ...
+Selecting previously unselected package libxmlsec1-openssl:amd64.
+Preparing to unpack .../libxmlsec1-openssl_1.2.28-2_amd64.deb ...
+Unpacking libxmlsec1-openssl:amd64 (1.2.28-2) ...
+Selecting previously unselected package open-vm-tools.
+Preparing to unpack .../open-vm-tools_2%3a11.3.0-2ubuntu0~ubuntu20.04.2_amd64.deb ...
+Unpacking open-vm-tools (2:11.3.0-2ubuntu0~ubuntu20.04.2) ...
+Setting up libmspack0:amd64 (0.10.1-2) ...
+Setting up libxmlsec1:amd64 (1.2.28-2) ...
+Setting up libxmlsec1-openssl:amd64 (1.2.28-2) ...
+Setting up open-vm-tools (2:11.3.0-2ubuntu0~ubuntu20.04.2) ...
+Created symlink /etc/systemd/system/vmtoolsd.service → /lib/systemd/system/open-vm-tools.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/open-vm-tools.service → /lib/systemd/system/open-vm-tools.service.
+Created symlink /etc/systemd/system/open-vm-tools.service.requires/vgauth.service → /lib/systemd/system/vgauth.service.
+Processing triggers for systemd (245.4-4ubuntu3.2) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for libc-bin (2.31-0ubuntu9) ...
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
++ apt-get install -q -y --force-yes --no-install-recommends open-vm-tools-desktop
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following NEW packages will be installed:
+  open-vm-tools-desktop
+0 upgraded, 1 newly installed, 0 to remove and 434 not upgraded.
+Need to get 144 kB of archives.
+After this operation, 581 kB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu focal-updates/universe amd64 open-vm-tools-desktop amd64 2:11.3.0-2ubuntu0~ubuntu20.04.2 [144 kB]
+dpkg-preconfigure: unable to re-open stdin: No such file or directory
+Fetched 144 kB in 1s (278 kB/s)
+Selecting previously unselected package open-vm-tools-desktop.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 156356 files and directories currently installed.)
+Preparing to unpack .../open-vm-tools-desktop_2%3a11.3.0-2ubuntu0~ubuntu20.04.2_amd64.deb ...
+Unpacking open-vm-tools-desktop (2:11.3.0-2ubuntu0~ubuntu20.04.2) ...
+Setting up open-vm-tools-desktop (2:11.3.0-2ubuntu0~ubuntu20.04.2) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/run-vmblock\x2dfuse.mount → /lib/systemd/system/run-vmblock\x2dfuse.mount.
+Processing triggers for man-db (2.9.1-1) ...
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
++ cp /etc/apt/sources.bak /etc/apt/sources.list
++ dpkg --list
++ grep open-vm-tools
++ grep '^ii'
++ '[' 0 -ne 0 ']'
++ echo open-vm-tools install Succeeded.
+open-vm-tools install Succeeded.
++ vmware-rpctool 'guest.upgrader_send_cmd_line_args --default'
+
++ vmware-rpctool 'upgrader.setGuestFileRoot /tmp'
+
++ vmware-rpctool 'toolinstall.installerActive 1'
+
++ vmware-rpctool 'toolinstall.installerActive 100'
+
++ mv '/opt/vmware-tools-installer/*dm.conf' /etc/init/
++ true
++ rm -rf /opt/vmware-tools-installer
++ /sbin/initctl start lightdm
++ rm -f /etc/rcS.d/S05rc.local
++ mv /etc/rc.local.backup /etc/rc.local

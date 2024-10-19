@@ -1,0 +1,6 @@
+0a0633a80c4ecfd1bebdf1f492ce3dd4  usr/share/doc/libcommons-math3-java/changelog.Debian.gz
+4a4c676adcd83efa88be898e9d39cb01  usr/share/doc/libcommons-math3-java/changelog.gz
+246b0367c4a81111c286523f12b56768  usr/share/doc/libcommons-math3-java/copyright
+694550fe5bcd17cd6710ff2a6dfd6ae7  usr/share/java/commons-math3.jar
+44ab0b92420f33913fc2b8ec4bd136c2  usr/share/maven-repo/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.pom
+2b15bf901fc14511f9fff2bacb8d8875  usr/share/maven-repo/org/apache/commons/commons-math3/debian/commons-math3-debian.pom

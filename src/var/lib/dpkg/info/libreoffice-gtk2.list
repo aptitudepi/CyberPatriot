@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libreoffice
+/usr/lib/libreoffice/program
+/usr/lib/libreoffice/program/libvclplug_gtklo.so
+/usr/lib/libreoffice/program/xid-fullscreen-on-all-monitors
+/usr/lib/libreoffice/share
+/usr/share
+/usr/share/bug
+/usr/share/bug/libreoffice-gtk2
+/usr/share/bug/libreoffice-gtk2/presubj
+/usr/share/doc
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libreoffice-gtk2
+/usr/share/doc/libreoffice-gtk2

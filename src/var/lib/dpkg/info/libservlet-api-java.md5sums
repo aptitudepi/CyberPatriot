@@ -1,0 +1,6 @@
+c387eb564db475200a5db34727445798  usr/share/doc/libservlet-api-java/changelog.Debian.gz
+e6fff5820043fbbb650950094552d833  usr/share/doc/libservlet-api-java/copyright
+116a41110e82bbde2818d7e51ee2c837  usr/share/java/servlet-api.jar
+7eec839bb5d5baefe8c7931689c49b4d  usr/share/maven-repo/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.pom
+3d56e339e9ada610b1ef14d4f8da2406  usr/share/maven-repo/javax/servlet/javax.servlet-api/debian/javax.servlet-api-debian.pom
+a96aaee23157580dbcc626944b978f56  usr/share/maven-repo/javax/servlet/servlet-api/debian/servlet-api-debian.pom

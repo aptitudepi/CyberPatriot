@@ -1,0 +1,6 @@
+b003ad6e9a76dbdaf1ddcee0d3971796  usr/share/doc/libmaven-shared-io-java/TODO.Debian
+8e0e82b5cf894b10f04ee90f8deb48d0  usr/share/doc/libmaven-shared-io-java/changelog.Debian.gz
+cc8d9763b9bfbe73b3f22c75abffa739  usr/share/doc/libmaven-shared-io-java/copyright
+66005c31f322c8577e038316120ca282  usr/share/java/maven-shared-io.jar
+7eb88381147e90131778321aac6f391c  usr/share/maven-repo/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+d3158ae3104ddb8700eb5fc2c7aceeff  usr/share/maven-repo/org/apache/maven/shared/maven-shared-io/debian/maven-shared-io-debian.pom

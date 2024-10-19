@@ -1,0 +1,5 @@
+e74ed181fd5dc1f5da08634ec56eefd0  usr/share/doc/libplexus-archiver-java/changelog.Debian.gz
+948f8ea9769c854bdcc1d7a530fd8d8e  usr/share/doc/libplexus-archiver-java/copyright
+bea4864623da2e373a4a527e1ea8b377  usr/share/java/plexus-archiver.jar
+57d2c765f8a1606c2ab492ca784d9911  usr/share/maven-repo/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.pom
+629be4c6028719aa67f8fd2f1c5fe037  usr/share/maven-repo/org/codehaus/plexus/plexus-archiver/debian/plexus-archiver-debian.pom

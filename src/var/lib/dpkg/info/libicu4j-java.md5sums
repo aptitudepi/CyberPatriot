@@ -1,0 +1,13 @@
+a42a43c8b47ddcc41f8726fe05b89223  usr/share/doc/libicu4j-java/APIChangeReport.html
+62d46373b1ffe9b4b38d18649329b4c9  usr/share/doc/libicu4j-java/changelog.Debian.gz
+d59d1e88bae44234f1e2f2f7c4689691  usr/share/doc/libicu4j-java/copyright
+048e8364a50418a5a6f8bf2e3ba1c38e  usr/share/doc/libicu4j-java/readme.html
+01e9b8e8caefed5f15729d35583c2a8d  usr/share/java/icu4j-60.2.jar
+de30e52d0ba36a5699e354c5ceb50ab7  usr/share/java/icu4j-charset-60.2.jar
+16cebdc33758393c984a6955f80297f7  usr/share/java/icu4j-localespi-60.2.jar
+b36c3ab4ebdbdf7fdfc2992fc9b0a08a  usr/share/maven-repo/com/ibm/icu/icu4j-charset/60.2/icu4j-charset-60.2.pom
+ddcd0304061709da5a96dbec28adf0e4  usr/share/maven-repo/com/ibm/icu/icu4j-charset/debian/icu4j-charset-debian.pom
+f46fd1d74723579f72b6d3438778cba1  usr/share/maven-repo/com/ibm/icu/icu4j-localespi/60.2/icu4j-localespi-60.2.pom
+814ba806a7f04c89112d080c7b56445d  usr/share/maven-repo/com/ibm/icu/icu4j-localespi/debian/icu4j-localespi-debian.pom
+80387239bff24d9e3a088604d7a0ffb3  usr/share/maven-repo/com/ibm/icu/icu4j/60.2/icu4j-60.2.pom
+a8da5409f89322f372429176f30a4175  usr/share/maven-repo/com/ibm/icu/icu4j/debian/icu4j-debian.pom

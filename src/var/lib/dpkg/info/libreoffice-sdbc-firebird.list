@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libreoffice
+/usr/lib/libreoffice/program
+/usr/lib/libreoffice/program/libfirebird_sdbclo.so
+/usr/share
+/usr/share/bug
+/usr/share/bug/libreoffice-sdbc-firebird
+/usr/share/bug/libreoffice-sdbc-firebird/presubj
+/usr/share/doc
+/usr/share/doc/libreoffice-sdbc-firebird

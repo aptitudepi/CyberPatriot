@@ -1,0 +1,8 @@
+7a4002b4d9b2c342b6630d17db33fb45  usr/share/doc/libjetbrains-annotations-java/changelog.Debian.gz
+cb9069cfabcf93f490bafe91976c2020  usr/share/doc/libjetbrains-annotations-java/copyright
+3b2b9519874973b6d5f627855191c898  usr/share/java/org.jetbrains.annotations-common-17.0.0-SNAPSHOT.jar
+2dd11245856642bcf0e9726e339e6f30  usr/share/java/org.jetbrains.annotations-java8-17.0.0-SNAPSHOT.jar
+c9646b66c97b82687dd7512a83d3189a  usr/share/maven-repo/org/jetbrains/annotations/17.0.0-SNAPSHOT/annotations-17.0.0-SNAPSHOT.pom
+ba4d3ef27cbc2b41a7e0e3054919627d  usr/share/maven-repo/org/jetbrains/annotations/debian/annotations-debian.pom
+52b72b6b5ad2a47f644cf82566b75f32  usr/share/maven-repo/org/jetbrains/common/17.0.0-SNAPSHOT/common-17.0.0-SNAPSHOT.pom
+b03e97e7e90d168adb75aa597da23ab6  usr/share/maven-repo/org/jetbrains/common/debian/common-debian.pom

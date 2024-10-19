@@ -1,0 +1,10 @@
+first 3 - fq
+18972 - 3 -- unauth user cd...
+24651 - 3 -- removed makunga
+10428 - 4 -- sysctl
+77345 - 4 -- sudo
+65478 - 2 -- ufw
+24649 - 2 -- ufw config
+82356 - 4 -- fixed shadow
+22925 - 3 -- changed perms on var www
+48562 - 3 -- removed malicious php

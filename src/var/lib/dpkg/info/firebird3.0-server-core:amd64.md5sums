@@ -1,0 +1,11 @@
+b8cb5de476a7765463f4194a59d4dadf  usr/lib/x86_64-linux-gnu/firebird/3.0/UDF/fbudf.so
+47e5717df1b70099960713dc06f63fd6  usr/lib/x86_64-linux-gnu/firebird/3.0/UDF/fbudf.sql
+6c202fbd9248c7808779ede101fe630e  usr/lib/x86_64-linux-gnu/firebird/3.0/UDF/ib_udf.so
+a3f59ab18397c65b729b6485f5bd5cb8  usr/lib/x86_64-linux-gnu/firebird/3.0/UDF/ib_udf.sql
+25bda81ce693935ec448ffea83a9f5c0  usr/lib/x86_64-linux-gnu/firebird/3.0/intl/libfbintl.so
+586dcec8ff0ee43c53a695b6298e4bc3  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libEngine12.so
+f2b349b89a3b972f05531d46c6f28f51  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libLegacy_Auth.so
+fe437b09dee57f8411a9471fcbffa71b  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libLegacy_UserManager.so
+37b0193a92bd3bd825d0fc9286fdd13b  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libSrp.so
+da7103ec22b548db0ecef9cf5394b7f5  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libfbtrace.so
+9448f41b192c3919bf60c6a216b96960  usr/lib/x86_64-linux-gnu/firebird/3.0/plugins/libudr_engine.so

@@ -1,0 +1,16 @@
+4a655faf1ac9b0f947007878ad9d6ec7  usr/bin/fbstat
+cab2d988d0f713cf19b573927da56f8e  usr/bin/fbsvcmgr
+673e673a01a01b73e4845151fa8e2a7f  usr/bin/gbak
+53bff98d67264b0bf1466a1e5628caf5  usr/bin/gfix
+9725197b20ded772689f959288c9c64a  usr/bin/gpre
+f6f50bcbcae63ea97ab2b751de83c1fa  usr/bin/gsec
+6485de37adb31a0cb5788b878d1d12cc  usr/bin/isql-fb
+47660216eb8208a0d3be723b27016f92  usr/bin/nbackup
+39759d83944bc6cc0cef49fe8be4dcf4  usr/share/man/man1/fbstat.1.gz
+5d0110ff15326455981a5b63f2d50013  usr/share/man/man1/fbsvcmgr.1.gz
+010ceaab80b5ce13710314f87385b231  usr/share/man/man1/gbak.1.gz
+0cb9448089fdc1d01b76d969bfade503  usr/share/man/man1/gfix.1.gz
+152aceaf0c31f2b211d167413a64297a  usr/share/man/man1/gpre.1.gz
+79e3db925e5a4b54bc396853abb92ca2  usr/share/man/man1/gsec.1.gz
+305d2eb46d8bcb1310adb5969cbc36fe  usr/share/man/man1/isql-fb.1.gz
+718eb0a6e8686c575fbea4b6a765e922  usr/share/man/man1/nbackup.1.gz

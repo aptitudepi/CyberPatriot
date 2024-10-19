@@ -1,0 +1,32 @@
+[2022-01-22T05:18:49.088Z] [ message] [vmsvc] [1939] Log caching is enabled with maxCacheEntries=4096.
+[2022-01-22T05:18:49.088Z] [ message] [vmsvc] [1939] Core dump limit set to -1
+[2022-01-22T05:18:49.088Z] [ message] [vmtoolsd] [1939] Tools Version: 11.3.0.29534 (build-18090558)
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'hgfsServer' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [vix] [1939] QueryVGAuthConfig: vgauth usage is: 1
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'vix' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'appInfo' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'deployPkg' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'guestInfo' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [vmtoolsd] [1939] Plugin 'powerops' initialized.
+[2022-01-22T05:18:49.189Z] [ message] [resolutionCommon] [1939] resolutionCheckForKMS: dlopen succeeded.
+[2022-01-22T05:18:49.190Z] [ message] [resolutionCommon] [1939] resolutionCheckForKMS: System support available for resolutionKMS.
+[2022-01-22T05:18:49.190Z] [ message] [vmtoolsd] [1939] Plugin 'resolutionKMS' initialized.
+[2022-01-22T05:18:49.190Z] [ message] [vmtoolsd] [1939] Plugin 'timeSync' initialized.
+[2022-01-22T05:18:49.190Z] [ message] [vmtoolsd] [1939] Plugin 'vmbackup' initialized.
+[2022-01-22T05:18:49.474Z] [ message] [vix] [1939] VixTools_ProcessVixCommand: command 62
+[2022-01-22T05:18:49.889Z] [ message] [vmsvc] [1939] Executing script for state change 'OS_PowerOn'.
+[2022-01-22T05:18:49.889Z] [ message] [powerops] [1939] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[2022-01-22T05:18:50.005Z] [ message] [vmsvc] [1939] Script exit code: 0, success = 1
+[2022-01-22T13:20:48.968Z] [ message] [vix] [1939] VixTools_ProcessVixCommand: command 62
+[2022-01-22T13:20:48.986Z] [ message] [vix] [1939] ToolsDaemonTcloReceiveVixCommand: command 62, additionalError = 17
+[2022-01-22T13:20:49.024Z] [ message] [vix] [1939] VixTools_ProcessVixCommand: command 62
+[2022-01-22T13:20:49.024Z] [ message] [vix] [1939] ToolsDaemonTcloReceiveVixCommand: command 62, additionalError = 17
+[2022-01-22T05:30:53.635Z] [ warning] [vmsvc] [1943] Failed to send RPCI message: update.tools.health hung
+[2022-01-22T05:34:14.540Z] [ warning] [guestinfo] [1939] *** WARNING: GuestInfo collection interval longer than expected; actual=73 sec, expected=30 sec. ***
+[2022-01-22T05:36:57.314Z] [ message] [vix] [1939] VixTools_ProcessVixCommand: command 62
+[2022-01-22T05:36:57.345Z] [ message] [vix] [1939] ToolsDaemonTcloReceiveVixCommand: command 62, additionalError = 17
+[2022-01-22T05:36:57.443Z] [ message] [vix] [1939] VixTools_ProcessVixCommand: command 62
+[2022-01-22T05:36:57.444Z] [ message] [vix] [1939] ToolsDaemonTcloReceiveVixCommand: command 62, additionalError = 17
+[2022-01-22T05:37:03.837Z] [ message] [vmsvc] [1939] Executing script for state change 'OS_Reboot'.
+[2022-01-22T05:37:03.898Z] [ message] [powerops] [1939] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[2022-01-22T05:37:12.765Z] [ warning] [vmsvc] [1943] Failed to send RPCI message: update.tools.health hung

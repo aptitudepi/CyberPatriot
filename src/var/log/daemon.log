@@ -1,0 +1,348 @@
+Jan 22 01:31:12 debian systemd-modules-load[261]: Inserted module 'lp'
+Jan 22 01:31:12 debian systemd-sysusers[278]: Creating group systemd-coredump with gid 999.
+Jan 22 01:31:12 debian systemd-sysusers[278]: Creating user systemd-coredump (systemd Core Dumper) with uid 999 and gid 999.
+Jan 22 01:31:12 debian systemd-modules-load[261]: Inserted module 'ppdev'
+Jan 22 01:31:12 debian systemd-modules-load[261]: Inserted module 'parport_pc'
+Jan 22 01:31:12 debian systemd-tmpfiles[288]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:1] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher → /run/speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[288]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:2] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.cache → /run/speech-dispatcher/.cache; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[288]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:3] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.speech-dispatcher → /run/speech-dispatcher/.speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[288]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:4] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.cache/speech-dispatcher → /run/speech-dispatcher/.cache/speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[288]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:5] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/log → /run/speech-dispatcher/log; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-udevd[299]: Using default interface naming scheme 'v240'.
+Jan 22 01:31:12 debian systemd-udevd[299]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Jan 22 01:31:12 debian systemd[1]: Starting Flush Journal to Persistent Storage...
+Jan 22 01:31:12 debian apparmor.systemd[291]: Restarting AppArmor
+Jan 22 01:31:12 debian apparmor.systemd[291]: Reloading AppArmor profiles
+Jan 22 01:31:12 debian systemd-udevd[309]: link_config: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Jan 22 01:31:12 debian systemd[1]: Found device VMware_Virtual_S 5.
+Jan 22 01:31:12 debian systemd[1]: Started Flush Journal to Persistent Storage.
+Jan 22 01:31:12 debian systemd[1]: Reached target Bluetooth.
+Jan 22 01:31:12 debian systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Jan 22 01:31:12 debian systemd[1]: Starting Create Volatile Files and Directories...
+Jan 22 01:31:12 debian systemd[1]: Activating swap /dev/disk/by-uuid/cfd95ca5-4f37-423a-a9e4-b72f153e4adb...
+Jan 22 01:31:12 debian systemd[1]: Starting Load/Save RF Kill Switch Status...
+Jan 22 01:31:12 debian systemd-tmpfiles[424]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:1] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher → /run/speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[424]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:2] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.cache → /run/speech-dispatcher/.cache; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[424]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:3] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.speech-dispatcher → /run/speech-dispatcher/.speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[424]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:4] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/.cache/speech-dispatcher → /run/speech-dispatcher/.cache/speech-dispatcher; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd-tmpfiles[424]: [/usr/lib/tmpfiles.d/speech-dispatcher.conf:5] Line references path below legacy directory /var/run/, updating /var/run/speech-dispatcher/log → /run/speech-dispatcher/log; please update the tmpfiles.d/ drop-in file accordingly.
+Jan 22 01:31:12 debian systemd[1]: Activated swap /dev/disk/by-uuid/cfd95ca5-4f37-423a-a9e4-b72f153e4adb.
+Jan 22 01:31:12 debian systemd[1]: Reached target Swap.
+Jan 22 01:31:12 debian systemd[1]: Started Load/Save RF Kill Switch Status.
+Jan 22 01:31:12 debian systemd[1]: Started Create Volatile Files and Directories.
+Jan 22 01:31:12 debian systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Jan 22 01:31:12 debian systemd[1]: Starting Network Time Synchronization...
+Jan 22 01:31:12 debian systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Jan 22 01:31:12 debian systemd[1]: Started Network Time Synchronization.
+Jan 22 01:31:12 debian systemd[1]: Reached target System Time Synchronized.
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in Commit a transient machine-id on disk being skipped.
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in Rebuild Hardware Database being skipped.
+Jan 22 01:31:12 debian systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in Set Up Additional Binary Formats being skipped.
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in Kernel Configuration File System being skipped.
+Jan 22 01:31:12 debian systemd[1]: Starting Show Plymouth Boot Screen...
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in FUSE Control File System being skipped.
+Jan 22 01:31:12 debian systemd[1]: Received SIGRTMIN+20 from PID 202 (plymouthd).
+Jan 22 01:31:12 debian systemd[1]: plymouth-read-write.service: Succeeded.
+Jan 22 01:31:12 debian systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Jan 22 01:31:12 debian systemd[1]: plymouth-start.service: Succeeded.
+Jan 22 01:31:12 debian systemd[1]: Started Show Plymouth Boot Screen.
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in Dispatch Password Requests to Console Directory Watch being skipped.
+Jan 22 01:31:12 debian systemd-udevd[306]: Process '/usr/sbin/alsactl -E HOME=/run/alsa restore 0' failed with exit code 99.
+Jan 22 01:31:12 debian systemd[1]: systemd-rfkill.service: Succeeded.
+Jan 22 01:31:12 debian systemd[1]: Started Load AppArmor profiles.
+Jan 22 01:31:12 debian systemd[1]: Reached target System Initialization.
+Jan 22 01:31:12 debian systemd[1]: Started Daily rotation of log files.
+Jan 22 01:31:12 debian systemd[1]: Started Daily man-db regeneration.
+Jan 22 01:31:12 debian systemd[1]: Started Trigger anacron every hour.
+Jan 22 01:31:12 debian systemd[1]: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+Jan 22 01:31:12 debian systemd[1]: Started CUPS Scheduler.
+Jan 22 01:31:12 debian systemd[1]: Reached target Paths.
+Jan 22 01:31:12 debian systemd[1]: Listening on CUPS Scheduler.
+Jan 22 01:31:12 debian systemd[1]: Listening on D-Bus System Message Bus Socket.
+Jan 22 01:31:12 debian systemd[1]: Reached target Sockets.
+Jan 22 01:31:12 debian systemd[1]: Reached target Basic System.
+Jan 22 01:31:12 debian systemd[1]: Started Run anacron jobs.
+Jan 22 01:31:12 debian systemd[1]: Starting Initialize hardware monitoring sensors...
+Jan 22 01:31:12 debian systemd[1]: Started CUPS Scheduler.
+Jan 22 01:31:12 debian systemd[1]: Started Regular background program processing daemon.
+Jan 22 01:31:12 debian systemd[1]: Started D-Bus System Message Bus.
+Jan 22 01:31:12 debian sensors[445]: No sensors found!
+Jan 22 01:31:12 debian sensors[445]: Make sure you loaded all the kernel drivers you need.
+Jan 22 01:31:12 debian sensors[445]: Try sensors-detect to find out which these are.
+Jan 22 01:31:12 debian systemd[1]: Starting System Logging Service...
+Jan 22 01:31:12 debian systemd[1]: Started Manage Sound Card State (restore and store).
+Jan 22 01:31:12 debian systemd[1]: Starting WPA supplicant...
+Jan 22 01:31:12 debian systemd[1]: Starting Network Manager...
+Jan 22 01:31:12 debian alsactl[450]: alsactl 1.1.8 daemon started
+Jan 22 01:31:12 debian alsactl[450]: /usr/sbin/alsactl: load_state:1683Cannot open /var/lib/alsa/asound.state for reading: No such file or directory
+Jan 22 01:31:12 debian systemd[1]: Starting Login Service...
+Jan 22 01:31:12 debian systemd[1]: Started Daily Cleanup of Temporary Directories.
+Jan 22 01:31:12 debian systemd[1]: Starting Save/Restore Sound Card State...
+Jan 22 01:31:12 debian systemd[1]: Starting Restore /etc/resolv.conf if the system crashed before the ppp link was shut down...
+Jan 22 01:31:12 debian systemd[1]: Starting Disk Manager...
+Jan 22 01:31:12 debian alsactl[450]: Found hardware: "ENS1371" "Cirrus Logic CS4297A rev 3" "AC97a:43525913" "0x1274" "0x1371"
+Jan 22 01:31:12 debian alsactl[450]: Hardware is initialized using a generic method
+Jan 22 01:31:12 debian alsactl[454]: /usr/sbin/alsactl: load_state:1683: Cannot open /var/lib/alsa/asound.state for reading: No such file or directory
+Jan 22 01:31:12 debian systemd[1]: Starting Modem Manager...
+Jan 22 01:31:12 debian systemd[1]: Starting Avahi mDNS/DNS-SD Stack...
+Jan 22 01:31:12 debian systemd[1]: Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+Jan 22 01:31:12 debian systemd[1]: Started Daily apt download activities.
+Jan 22 01:31:12 debian systemd[1]: Started Daily apt upgrade and clean activities.
+Jan 22 01:31:12 debian systemd[1]: Reached target Timers.
+Jan 22 01:31:12 debian systemd[1]: Starting Raise network interfaces...
+Jan 22 01:31:12 debian systemd[1]: Started System Logging Service.
+Jan 22 01:31:12 debian alsactl[454]: Found hardware: "ENS1371" "Cirrus Logic CS4297A rev 3" "AC97a:43525913" "0x1274" "0x1371"
+Jan 22 01:31:12 debian alsactl[454]: Hardware is initialized using a generic method
+Jan 22 01:31:12 debian systemd[1]: Started Save/Restore Sound Card State.
+Jan 22 01:31:12 debian avahi-daemon[461]: Found user 'avahi' (UID 110) and group 'avahi' (GID 118).
+Jan 22 01:31:12 debian systemd[1]: pppd-dns.service: Succeeded.
+Jan 22 01:31:12 debian systemd[1]: Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+Jan 22 01:31:12 debian sensors[464]: No sensors found!
+Jan 22 01:31:12 debian sensors[464]: Make sure you loaded all the kernel drivers you need.
+Jan 22 01:31:12 debian sensors[464]: Try sensors-detect to find out which these are.
+Jan 22 01:31:12 debian systemd[1]: Started Initialize hardware monitoring sensors.
+Jan 22 01:31:12 debian systemd[1]: Reached target Sound Card.
+Jan 22 01:31:12 debian wpa_supplicant[451]: Successfully initialized wpa_supplicant
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.systemd1'
+Jan 22 01:31:12 debian systemd[1]: Started WPA supplicant.
+Jan 22 01:31:12 debian avahi-daemon[461]: Successfully dropped root privileges.
+Jan 22 01:31:12 debian avahi-daemon[461]: avahi-daemon 0.7 starting up.
+Jan 22 01:31:12 debian systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+Jan 22 01:31:12 debian systemd[1]: Started Make remote CUPS printers available locally.
+Jan 22 01:31:12 debian avahi-daemon[461]: Successfully called chroot().
+Jan 22 01:31:12 debian avahi-daemon[461]: Successfully dropped remaining capabilities.
+Jan 22 01:31:12 debian avahi-daemon[461]: No service file found in /etc/avahi/services.
+Jan 22 01:31:12 debian avahi-daemon[461]: Network interface enumeration completed.
+Jan 22 01:31:12 debian avahi-daemon[461]: Server startup complete. Host name is debian.local. Local service cookie is 2822843219.
+Jan 22 01:31:12 debian ModemManager[459]: <info>  ModemManager (version 1.10.0) starting in system bus...
+Jan 22 01:31:12 debian systemd[1]: Started Login Service.
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.7' (uid=0 pid=459 comm="/usr/sbin/ModemManager --filter-policy=strict ")
+Jan 22 01:31:12 debian systemd[1]: Starting Authorization Manager...
+Jan 22 01:31:12 debian systemd[1]: Started Network Manager.
+Jan 22 01:31:12 debian systemd[1]: Starting Network Manager Wait Online...
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.9' (uid=0 pid=452 comm="/usr/sbin/NetworkManager --no-daemon ")
+Jan 22 01:31:12 debian polkitd[482]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Jan 22 01:31:12 debian systemd[1]: Started Authorization Manager.
+Jan 22 01:31:12 debian systemd[1]: Starting Hostname Service...
+Jan 22 01:31:12 debian systemd[1]: Started Raise network interfaces.
+Jan 22 01:31:12 debian systemd[1]: Reached target Network.
+Jan 22 01:31:12 debian systemd[1]: Starting Permit User Sessions...
+Jan 22 01:31:12 debian systemd[1]: Started Modem Manager.
+Jan 22 01:31:12 debian systemd[1]: Started Permit User Sessions.
+Jan 22 01:31:12 debian systemd[1]: Starting Hold until boot process finishes up...
+Jan 22 01:31:12 debian systemd[1]: Starting Light Display Manager...
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Jan 22 01:31:12 debian systemd[1]: Started Hostname Service.
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.9' (uid=0 pid=452 comm="/usr/sbin/NetworkManager --no-daemon ")
+Jan 22 01:31:12 debian systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jan 22 01:31:12 debian systemd[1]: Started Disk Manager.
+Jan 22 01:31:12 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jan 22 01:31:12 debian systemd[1]: Started Network Manager Script Dispatcher Service.
+Jan 22 01:31:12 debian nm-dispatcher: req:1 'hostname': new request (1 scripts)
+Jan 22 01:31:12 debian nm-dispatcher: req:1 'hostname': start running ordered scripts...
+Jan 22 01:31:12 debian systemd[1]: Received SIGRTMIN+21 from PID 202 (plymouthd).
+Jan 22 01:31:12 debian systemd[1]: plymouth-quit-wait.service: Succeeded.
+Jan 22 01:31:12 debian systemd[1]: Started Hold until boot process finishes up.
+Jan 22 01:31:12 debian systemd[1]: Received SIGRTMIN+21 from PID 202 (n/a).
+Jan 22 01:31:12 debian systemd[1]: Started Getty on tty1.
+Jan 22 01:31:12 debian systemd[1]: Reached target Login Prompts.
+Jan 22 01:31:12 debian systemd[1]: Started Light Display Manager.
+Jan 22 01:31:12 debian nm-dispatcher: req:2 'connectivity-change': new request (1 scripts)
+Jan 22 01:31:12 debian nm-dispatcher: req:2 'connectivity-change': start running ordered scripts...
+Jan 22 01:31:12 debian avahi-daemon[461]: Joining mDNS multicast group on interface ens33.IPv6 with address fe80::20c:29ff:fe3f:ee0b.
+Jan 22 01:31:12 debian avahi-daemon[461]: New relevant interface ens33.IPv6 for mDNS.
+Jan 22 01:31:12 debian avahi-daemon[461]: Registering new address record for fe80::20c:29ff:fe3f:ee0b on ens33.*.
+Jan 22 01:31:12 debian dhclient[535]: DHCPDISCOVER on ens33 to 255.255.255.255 port 67 interval 4
+Jan 22 01:31:13 debian systemd[1]: Created slice User Slice of UID 114.
+Jan 22 01:31:13 debian systemd[1]: Starting User Runtime Directory /run/user/114...
+Jan 22 01:31:13 debian systemd[1]: Started User Runtime Directory /run/user/114.
+Jan 22 01:31:13 debian systemd[1]: Starting User Manager for UID 114...
+Jan 22 01:31:13 debian systemd[553]: Reached target Timers.
+Jan 22 01:31:13 debian systemd[553]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jan 22 01:31:13 debian systemd[553]: Listening on GnuPG network certificate management daemon.
+Jan 22 01:31:13 debian systemd[553]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jan 22 01:31:13 debian systemd[553]: Listening on Sound System.
+Jan 22 01:31:13 debian systemd[553]: Starting D-Bus User Message Bus Socket.
+Jan 22 01:31:13 debian systemd[553]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jan 22 01:31:13 debian systemd[553]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jan 22 01:31:13 debian systemd[553]: Reached target Paths.
+Jan 22 01:31:13 debian systemd[553]: Listening on D-Bus User Message Bus Socket.
+Jan 22 01:31:13 debian systemd[553]: Reached target Sockets.
+Jan 22 01:31:13 debian systemd[553]: Reached target Basic System.
+Jan 22 01:31:13 debian systemd[1]: Started User Manager for UID 114.
+Jan 22 01:31:13 debian systemd[1]: Started Session c1 of user lightdm.
+Jan 22 01:31:13 debian systemd[553]: Reached target Default.
+Jan 22 01:31:13 debian systemd[553]: Startup finished in 69ms.
+Jan 22 01:31:13 debian systemd[553]: Started D-Bus User Message Bus.
+Jan 22 01:31:13 debian dbus-daemon[566]: [session uid=114 pid=566] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.1' (uid=114 pid=564 comm="/usr/sbin/lightdm-gtk-greeter ")
+Jan 22 01:31:13 debian systemd[553]: Starting Accessibility services bus...
+Jan 22 01:31:13 debian dbus-daemon[566]: [session uid=114 pid=566] Successfully activated service 'org.a11y.Bus'
+Jan 22 01:31:13 debian systemd[553]: Started Accessibility services bus.
+Jan 22 01:31:13 debian at-spi-bus-launcher[567]: dbus-daemon[572]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=114 pid=564 comm="/usr/sbin/lightdm-gtk-greeter ")
+Jan 22 01:31:13 debian at-spi-bus-launcher[567]: dbus-daemon[572]: Successfully activated service 'org.a11y.atspi.Registry'
+Jan 22 01:31:13 debian at-spi-bus-launcher[567]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Jan 22 01:31:13 debian dbus-daemon[566]: [session uid=114 pid=566] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.4' (uid=114 pid=564 comm="/usr/sbin/lightdm-gtk-greeter ")
+Jan 22 01:31:13 debian systemd[553]: Starting Virtual filesystem service...
+Jan 22 01:31:13 debian dbus-daemon[566]: [session uid=114 pid=566] Successfully activated service 'org.gtk.vfs.Daemon'
+Jan 22 01:31:13 debian systemd[553]: Started Virtual filesystem service.
+Jan 22 01:31:13 debian dhclient[535]: DHCPOFFER of 192.168.150.136 from 192.168.150.254
+Jan 22 01:31:13 debian dhclient[535]: DHCPREQUEST for 192.168.150.136 on ens33 to 255.255.255.255 port 67
+Jan 22 01:31:13 debian dhclient[535]: DHCPACK of 192.168.150.136 from 192.168.150.254
+Jan 22 01:31:13 debian avahi-daemon[461]: Joining mDNS multicast group on interface ens33.IPv4 with address 192.168.150.136.
+Jan 22 01:31:13 debian avahi-daemon[461]: New relevant interface ens33.IPv4 for mDNS.
+Jan 22 01:31:13 debian avahi-daemon[461]: Registering new address record for 192.168.150.136 on ens33.IPv4.
+Jan 22 01:31:13 debian dhclient[535]: bound to 192.168.150.136 -- renewal in 885 seconds.
+Jan 22 01:31:13 debian nm-dispatcher: req:3 'up' [ens33]: new request (1 scripts)
+Jan 22 01:31:13 debian nm-dispatcher: req:3 'up' [ens33]: start running ordered scripts...
+Jan 22 01:31:13 debian nm-dispatcher: req:4 'connectivity-change': new request (1 scripts)
+Jan 22 01:31:13 debian systemd[1]: Started Network Manager Wait Online.
+Jan 22 01:31:13 debian systemd[1]: Reached target Network is Online.
+Jan 22 01:31:13 debian systemd[1]: Starting LSB: disk temperature monitoring daemon...
+Jan 22 01:31:13 debian nm-dispatcher: req:4 'connectivity-change': start running ordered scripts...
+Jan 22 01:31:13 debian systemd[1]: Started LSB: disk temperature monitoring daemon.
+Jan 22 01:31:13 debian systemd[1]: Reached target Multi-User System.
+Jan 22 01:31:13 debian systemd[1]: Reached target Graphical Interface.
+Jan 22 01:31:13 debian systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Jan 22 01:31:13 debian systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+Jan 22 01:31:13 debian systemd[1]: Started Update UTMP about System Runlevel Changes.
+Jan 22 01:31:13 debian systemd[1]: Startup finished in 2.663s (kernel) + 10.112s (userspace) = 12.776s.
+Jan 22 01:31:15 debian ModemManager[459]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:11.0/0000:02:01.0': not supported by any plugin
+Jan 22 01:31:21 debian systemd[1]: session-c1.scope: Killing process 549 (lightdm) with signal SIGTERM.
+Jan 22 01:31:21 debian systemd[1]: session-c1.scope: Killing process 564 (lightdm-gtk-gre) with signal SIGTERM.
+Jan 22 01:31:21 debian systemd[1]: Stopping Session c1 of user lightdm.
+Jan 22 01:31:22 debian systemd[1]: session-c1.scope: Succeeded.
+Jan 22 01:31:22 debian systemd[1]: Stopped Session c1 of user lightdm.
+Jan 22 01:31:22 debian systemd[1]: Created slice User Slice of UID 1000.
+Jan 22 01:31:22 debian systemd[1]: Starting User Runtime Directory /run/user/1000...
+Jan 22 01:31:22 debian systemd[1]: Started User Runtime Directory /run/user/1000.
+Jan 22 01:31:22 debian systemd[1]: Starting User Manager for UID 1000...
+Jan 22 01:31:22 debian systemd[621]: Listening on GnuPG cryptographic agent and passphrase cache.
+Jan 22 01:31:22 debian systemd[621]: Listening on Sound System.
+Jan 22 01:31:22 debian systemd[621]: Reached target Paths.
+Jan 22 01:31:22 debian systemd[621]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Jan 22 01:31:22 debian systemd[621]: Listening on GnuPG network certificate management daemon.
+Jan 22 01:31:22 debian systemd[621]: Starting D-Bus User Message Bus Socket.
+Jan 22 01:31:22 debian systemd[621]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jan 22 01:31:22 debian systemd[621]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Jan 22 01:31:22 debian systemd[621]: Reached target Timers.
+Jan 22 01:31:22 debian systemd[621]: Listening on D-Bus User Message Bus Socket.
+Jan 22 01:31:22 debian systemd[621]: Reached target Sockets.
+Jan 22 01:31:22 debian systemd[621]: Reached target Basic System.
+Jan 22 01:31:22 debian systemd[1]: Started User Manager for UID 1000.
+Jan 22 01:31:22 debian systemd[1]: Started Session 2 of user edubs.
+Jan 22 01:31:22 debian systemd[621]: Reached target Default.
+Jan 22 01:31:22 debian systemd[621]: Startup finished in 28ms.
+Jan 22 01:31:22 debian systemd[621]: Started D-Bus User Message Bus.
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating via systemd: service name='org.a11y.Bus' unit='at-spi-dbus-bus.service' requested by ':1.5' (uid=1000 pid=680 comm="xfce4-session ")
+Jan 22 01:31:22 debian systemd[621]: Starting Accessibility services bus...
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.a11y.Bus'
+Jan 22 01:31:22 debian systemd[621]: Started Accessibility services bus.
+Jan 22 01:31:22 debian at-spi-bus-launcher[681]: dbus-daemon[686]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=1000 pid=680 comm="xfce4-session ")
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating service name='org.xfce.Xfconf' requested by ':1.5' (uid=1000 pid=680 comm="xfce4-session ")
+Jan 22 01:31:22 debian at-spi-bus-launcher[681]: dbus-daemon[686]: Successfully activated service 'org.a11y.atspi.Registry'
+Jan 22 01:31:22 debian at-spi-bus-launcher[681]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.xfce.Xfconf'
+Jan 22 01:31:22 debian systemd[621]: Started GnuPG cryptographic agent and passphrase cache.
+Jan 22 01:31:22 debian gpg-agent[698]: gpg-agent (GnuPG) 2.2.12 starting in supervised mode.
+Jan 22 01:31:22 debian gpg-agent[698]: using fd 3 for extra socket (/run/user/1000/gnupg/S.gpg-agent.extra)
+Jan 22 01:31:22 debian gpg-agent[698]: using fd 4 for std socket (/run/user/1000/gnupg/S.gpg-agent)
+Jan 22 01:31:22 debian gpg-agent[698]: using fd 5 for ssh socket (/run/user/1000/gnupg/S.gpg-agent.ssh)
+Jan 22 01:31:22 debian gpg-agent[698]: using fd 6 for browser socket (/run/user/1000/gnupg/S.gpg-agent.browser)
+Jan 22 01:31:22 debian gpg-agent[698]: listening on: std=4 extra=3 browser=6 ssh=5
+Jan 22 01:31:22 debian systemd[621]: Starting Sound Service...
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.12' (uid=1000 pid=707 comm="Thunar --daemon ")
+Jan 22 01:31:22 debian systemd[621]: Starting Virtual filesystem service...
+Jan 22 01:31:22 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.46' (uid=1000 pid=712 comm="xfsettingsd ")
+Jan 22 01:31:22 debian systemd[1]: Starting Daemon for power management...
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.gtk.vfs.Daemon'
+Jan 22 01:31:22 debian systemd[621]: Started Virtual filesystem service.
+Jan 22 01:31:22 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.48' (uid=1000 pid=718 comm="/usr/bin/pulseaudio --daemonize=no ")
+Jan 22 01:31:22 debian systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating service name='ca.desrt.dconf' requested by ':1.18' (uid=1000 pid=717 comm="light-locker ")
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating service name='org.freedesktop.thumbnails.Thumbnailer1' requested by ':1.17' (uid=1000 pid=709 comm="xfdesktop ")
+Jan 22 01:31:22 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Jan 22 01:31:22 debian systemd[1]: Started RealtimeKit Scheduling Policy Service.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Successfully called chroot.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Successfully dropped privileges.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Successfully limited resources.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Running.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Watchdog thread running.
+Jan 22 01:31:22 debian rtkit-daemon[742]: Canary thread running.
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'ca.desrt.dconf'
+Jan 22 01:31:22 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating via systemd: service name='org.freedesktop.Notifications' unit='xfce4-notifyd.service' requested by ':1.19' (uid=1000 pid=731 comm="xfce4-power-manager ")
+Jan 22 01:31:22 debian systemd[621]: Starting XFCE notifications service...
+Jan 22 01:31:23 debian rtkit-daemon[742]: Successfully made thread 718 of process 718 (n/a) owned by '1000' high priority at nice level -11.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Supervising 1 threads of 1 processes of 1 users.
+Jan 22 01:31:23 debian pulseaudio[718]: N: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Supervising 1 threads of 1 processes of 1 users.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Successfully made thread 767 of process 718 (n/a) owned by '1000' RT at priority 5.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Supervising 2 threads of 1 processes of 1 users.
+Jan 22 01:31:23 debian pulseaudio[718]: N: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Supervising 2 threads of 1 processes of 1 users.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Successfully made thread 768 of process 718 (n/a) owned by '1000' RT at priority 5.
+Jan 22 01:31:23 debian rtkit-daemon[742]: Supervising 3 threads of 1 processes of 1 users.
+Jan 22 01:31:23 debian systemd[621]: Started Sound Service.
+Jan 22 01:31:23 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.freedesktop.Notifications'
+Jan 22 01:31:23 debian systemd[621]: Started XFCE notifications service.
+Jan 22 01:31:23 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.UPower'
+Jan 22 01:31:23 debian systemd[1]: Started Daemon for power management.
+Jan 22 01:31:24 debian systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+Jan 22 01:31:26 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.31' (uid=1000 pid=750 comm="/usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd ")
+Jan 22 01:31:26 debian systemd[621]: Starting Virtual filesystem service - disk device monitor...
+Jan 22 01:31:26 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Jan 22 01:31:26 debian systemd[621]: Started Virtual filesystem service - disk device monitor.
+Jan 22 01:31:26 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.freedesktop.thumbnails.Thumbnailer1'
+Jan 22 01:31:26 debian dbus-daemon[645]: [session uid=1000 pid=645] Activating via systemd: service name='org.gtk.vfs.Metadata' unit='gvfs-metadata.service' requested by ':1.15' (uid=1000 pid=709 comm="xfdesktop ")
+Jan 22 01:31:26 debian systemd[621]: Starting Virtual filesystem metadata service...
+Jan 22 01:31:26 debian dbus-daemon[645]: [session uid=1000 pid=645] Successfully activated service 'org.gtk.vfs.Metadata'
+Jan 22 01:31:26 debian systemd[621]: Started Virtual filesystem metadata service.
+Jan 22 01:31:32 debian systemd[1]: Stopping User Manager for UID 114...
+Jan 22 01:31:32 debian systemd[553]: Stopping Accessibility services bus...
+Jan 22 01:31:32 debian systemd[553]: Stopping Virtual filesystem service...
+Jan 22 01:31:32 debian systemd[553]: Stopping D-Bus User Message Bus...
+Jan 22 01:31:32 debian systemd[553]: Stopped target Default.
+Jan 22 01:31:32 debian systemd[553]: at-spi-dbus-bus.service: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Stopped Accessibility services bus.
+Jan 22 01:31:32 debian systemd[553]: dbus.service: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Stopped D-Bus User Message Bus.
+Jan 22 01:31:32 debian systemd[553]: gvfs-daemon.service: Main process exited, code=killed, status=15/TERM
+Jan 22 01:31:32 debian systemd[553]: gvfs-daemon.service: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Stopped Virtual filesystem service.
+Jan 22 01:31:32 debian systemd[553]: Stopped target Basic System.
+Jan 22 01:31:32 debian systemd[553]: Stopped target Sockets.
+Jan 22 01:31:32 debian systemd[553]: gpg-agent-extra.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+Jan 22 01:31:32 debian systemd[553]: gpg-agent-ssh.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+Jan 22 01:31:32 debian systemd[553]: dbus.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed D-Bus User Message Bus Socket.
+Jan 22 01:31:32 debian systemd[553]: dirmngr.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed GnuPG network certificate management daemon.
+Jan 22 01:31:32 debian systemd[553]: gpg-agent-browser.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Jan 22 01:31:32 debian systemd[553]: pulseaudio.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed Sound System.
+Jan 22 01:31:32 debian systemd[553]: gpg-agent.socket: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Closed GnuPG cryptographic agent and passphrase cache.
+Jan 22 01:31:32 debian systemd[553]: Stopped target Timers.
+Jan 22 01:31:32 debian systemd[553]: Stopped target Paths.
+Jan 22 01:31:32 debian systemd[553]: Reached target Shutdown.
+Jan 22 01:31:32 debian systemd[553]: systemd-exit.service: Succeeded.
+Jan 22 01:31:32 debian systemd[553]: Started Exit the Session.
+Jan 22 01:31:32 debian systemd[553]: Reached target Exit the Session.
+Jan 22 01:31:32 debian systemd[1]: user@114.service: Succeeded.
+Jan 22 01:31:32 debian systemd[1]: Stopped User Manager for UID 114.
+Jan 22 01:31:32 debian systemd[1]: Stopping User Runtime Directory /run/user/114...
+Jan 22 01:31:32 debian systemd[621]: run-user-114.mount: Succeeded.
+Jan 22 01:31:32 debian systemd[1]: run-user-114.mount: Succeeded.
+Jan 22 01:31:32 debian systemd[1]: user-runtime-dir@114.service: Succeeded.
+Jan 22 01:31:32 debian systemd[1]: Stopped User Runtime Directory /run/user/114.
+Jan 22 01:31:32 debian systemd[1]: Removed slice User Slice of UID 114.
+Jan 22 01:31:42 debian systemd[1]: systemd-hostnamed.service: Succeeded.
+Jan 22 01:32:48 debian dbus-daemon[448]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.131' (uid=0 pid=967 comm="/usr/bin/gdbus call --system --dest org.freedeskto")
+Jan 22 01:32:48 debian systemd[1]: Starting PackageKit Daemon...
+Jan 22 01:32:48 debian PackageKit: daemon start
+Jan 22 01:32:48 debian dbus-daemon[448]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Jan 22 01:32:49 debian systemd[1]: Started PackageKit Daemon.

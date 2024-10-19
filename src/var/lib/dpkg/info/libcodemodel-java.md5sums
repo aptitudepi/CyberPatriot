@@ -1,0 +1,12 @@
+9a04ea0fa87e7237a4e651f9bdcb6c99  usr/share/doc/libcodemodel-java/changelog.Debian.gz
+402008202b01004c934b99f9160420fc  usr/share/doc/libcodemodel-java/copyright
+852836d8e2d21c688b5a75e68e1a62fd  usr/share/java/codemodel-annotation-compiler.jar
+77d900739bf1f47562de320ccc8329de  usr/share/java/codemodel.jar
+814265945f2c315b00a3897bead26215  usr/share/maven-repo/com/sun/codemodel/codemodel-annotation-compiler/debian/codemodel-annotation-compiler-debian.pom
+937b5b1c32c88204bdb697b9b4a73302  usr/share/maven-repo/com/sun/codemodel/codemodel/debian/codemodel-debian.pom
+29e7a0bd8b204a2ab22ee68e1653a0e5  usr/share/maven-repo/com/sun/xml/bind/mvn/jaxb-codemodel-parent/2.3.0.1/jaxb-codemodel-parent-2.3.0.1.pom
+1802ba58bf4780bcb968c1a5d9ca90ad  usr/share/maven-repo/com/sun/xml/bind/mvn/jaxb-codemodel-parent/debian/jaxb-codemodel-parent-debian.pom
+72a80979a8776e74ca3decc562b3758b  usr/share/maven-repo/org/glassfish/jaxb/codemodel-annotation-compiler/2.3.0.1/codemodel-annotation-compiler-2.3.0.1.pom
+97c74fca946f4115bb0fcfaec5ea0fbd  usr/share/maven-repo/org/glassfish/jaxb/codemodel-annotation-compiler/debian/codemodel-annotation-compiler-debian.pom
+5b5d002f260f487bee2d7f564722c63a  usr/share/maven-repo/org/glassfish/jaxb/codemodel/2.3.0.1/codemodel-2.3.0.1.pom
+3d1a6e55f4d2c71a82ba9e9ec80e3172  usr/share/maven-repo/org/glassfish/jaxb/codemodel/debian/codemodel-debian.pom

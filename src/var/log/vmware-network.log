@@ -1,0 +1,16 @@
++ chmod 0600 /var/log/vmware-network.log
++ date
++ echo Sat 22 Jan 2022 05:38:45 AM PST : Executing '/etc/vmware-tools/scripts/vmware/network poweron-vm'
+Sat 22 Jan 2022 05:38:45 AM PST : Executing '/etc/vmware-tools/scripts/vmware/network poweron-vm'
++ echo
+
++ dirname /etc/vmware-tools/scripts/vmware/network
++ . /etc/vmware-tools/scripts/vmware/../../statechange.subr
++ main poweron-vm
++ exitCode=0
++ activeList=/var/run/vmware-active-nics
++ rm -f /var/run/vmware-active-nics
++ return 0
++ date
++ echo Sat 22 Jan 2022 05:38:45 AM PST : Finished '/etc/vmware-tools/scripts/vmware/network poweron-vm'
+Sat 22 Jan 2022 05:38:45 AM PST : Finished '/etc/vmware-tools/scripts/vmware/network poweron-vm'

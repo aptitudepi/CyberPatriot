@@ -1,0 +1,10 @@
+0fb243618ae7a6cda3c4645c99f385d4  usr/share/doc/libnet-http-perl/changelog.Debian.gz
+87b02d920d300804403fc54be2574daa  usr/share/doc/libnet-http-perl/changelog.gz
+6b836e30519adb8bca02f80572c53fd4  usr/share/doc/libnet-http-perl/copyright
+5d8a8c523cb40df5b56cd1528539c3da  usr/share/man/man3/Net::HTTP.3pm.gz
+542a42ad676881d4cf7426db061f3a91  usr/share/man/man3/Net::HTTP::NB.3pm.gz
+04c410c78c4f350f581ea14318ab8d0e  usr/share/man/man3/Net::HTTPS.3pm.gz
+386b8f776439096be4c545dffd0ee36b  usr/share/perl5/Net/HTTP.pm
+205ac552a5239634a2eb4d3948845c83  usr/share/perl5/Net/HTTP/Methods.pm
+dc3116c0fb4bced533f7531f6aa3d960  usr/share/perl5/Net/HTTP/NB.pm
+1458a89699d39b3cc0c6d7c1146a0ff8  usr/share/perl5/Net/HTTPS.pm

@@ -1,0 +1,7 @@
+# implement intrusion detection
+sudo apt-get install ossec-hids-server -y
+sudo systemctl enable ossec-hids-server.service
+sudo systemctl start ossec-hids-server.service
+# enable SELinux/AppArmor
+sudo apt-get install selinux-basics selinux-policy-default -y
+sudo selinux-activate
