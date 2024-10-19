@@ -1,9 +1,0 @@
-3b1a79175e11279482830b8fa005f59d  usr/share/doc/libwagon-provider-api-java/changelog.Debian.gz
-c7660d222f4319fbc428bb30773b259a  usr/share/doc/libwagon-provider-api-java/copyright
-4f891c0f76a79b5c5da25a9a5f77b349  usr/share/java/wagon-provider-api.jar
-1abec3bba4cebc0a210c567f46ce1166  usr/share/maven-repo/org/apache/maven/wagon/wagon-provider-api/3.3.1/wagon-provider-api-3.3.1.pom
-5308276e59015eea3df831a11174aea4  usr/share/maven-repo/org/apache/maven/wagon/wagon-provider-api/debian/wagon-provider-api-debian.pom
-a5f222b76425e8e15e536c59005083eb  usr/share/maven-repo/org/apache/maven/wagon/wagon-providers/3.3.1/wagon-providers-3.3.1.pom
-abe57c425cdb2d14694c0ab9b769e408  usr/share/maven-repo/org/apache/maven/wagon/wagon-providers/debian/wagon-providers-debian.pom
-aec428f24701b381e98d241f6b514610  usr/share/maven-repo/org/apache/maven/wagon/wagon/3.3.1/wagon-3.3.1.pom
-a74bdd42410b97bc9bff2fc86f8d6548  usr/share/maven-repo/org/apache/maven/wagon/wagon/debian/wagon-debian.pom

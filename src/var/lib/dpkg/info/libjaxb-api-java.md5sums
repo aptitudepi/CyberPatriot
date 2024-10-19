@@ -1,7 +1,0 @@
-215e419ad8450c8d2be9d0a2667a3f07  usr/share/doc/libjaxb-api-java/changelog.Debian.gz
-58bb041482f393053d85f7e3d065d4c7  usr/share/doc/libjaxb-api-java/copyright
-a766c9e0455b43c1598599b76bf9464d  usr/share/java/jaxb-api.jar
-9a0776a380374d168494cd1e80a75cc8  usr/share/maven-repo/javax/xml/bind/jaxb-api-parent/2.3.1/jaxb-api-parent-2.3.1.pom
-b1e9fc1ab9cb798a2b6bdd566d1f9045  usr/share/maven-repo/javax/xml/bind/jaxb-api-parent/debian/jaxb-api-parent-debian.pom
-de8a790dcc4cda3ba88e1e19b1bad86a  usr/share/maven-repo/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.pom
-01558228b66e0ee02ec005a3131fb355  usr/share/maven-repo/javax/xml/bind/jaxb-api/debian/jaxb-api-debian.pom

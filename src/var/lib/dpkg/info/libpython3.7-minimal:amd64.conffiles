@@ -1,1 +1,0 @@
-/etc/python3.7/sitecustomize.py

@@ -1,7 +1,0 @@
-ec76f4337c0cab500c7e565481e943bc  usr/share/doc/libsnappy-java/NOTICE
-3e94d977e4cd610bc54e9c096e9f5894  usr/share/doc/libsnappy-java/changelog.Debian.gz
-0f723eb6a928eabae4f6f5c66802747d  usr/share/doc/libsnappy-java/changelog.gz
-3502f3fc398d7e3f377293ec23cb7ced  usr/share/doc/libsnappy-java/copyright
-d41bad41e5f62cee395ef81430d97863  usr/share/java/snappy-java.jar
-313bc827e6991ae4935cc7c8d4123dc9  usr/share/maven-repo/org/xerial/snappy/snappy-java/1.1.7.2/snappy-java-1.1.7.2.pom
-f6117d9d75b9db8edd74452ad17f9738  usr/share/maven-repo/org/xerial/snappy/snappy-java/debian/snappy-java-debian.pom

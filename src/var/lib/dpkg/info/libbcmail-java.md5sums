@@ -1,8 +1,0 @@
-75d8c35181b528e5c4dc243e496ae693  usr/share/doc/libbcmail-java/README.Debian
-43677b1148b509f9cad5c05969f3881e  usr/share/doc/libbcmail-java/changelog.Debian.gz
-d8c840bf8b9ddd904eb83980c9466b90  usr/share/doc/libbcmail-java/changelog.gz
-55325c331249c59e72ae504535165f52  usr/share/doc/libbcmail-java/changelog.html.gz
-b6441db5109cd308fb1d9109ce81a743  usr/share/doc/libbcmail-java/copyright
-37a34d21362455367d3b9f329f404765  usr/share/java/bcmail-1.58.jar
-2bc8d107224985e2e0ed9489be1952eb  usr/share/maven-repo/org/bouncycastle/bcmail/1.58/bcmail-1.58.pom
-9c92b6e54021e90b83ca77412777984f  usr/share/maven-repo/org/bouncycastle/bcmail/debian/bcmail-debian.pom

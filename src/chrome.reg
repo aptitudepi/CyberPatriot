@@ -27,12 +27,13 @@ Windows Registry Editor Version 5.00
 "ChromeCleanupEnabled"=dword:00000000
 "ChromeCleanupReportingEnabled"=dword:00000000
 "EnableMediaRouter"=dword:00000000
-"SSLVersionMin"="tls1.1"
+"SSLVersionMin"="tls1.3"
 "UrlKeyedAnonymizedDataCollectionEnabled"=dword:00000000
 "WebRtcEventLogCollectionAllowed"=dword:00000000
 "NetworkPredictionOptions"=dword:02000000
 "BrowserGuestModeEnabled"=dword:00000000
 "ImportAutofillFormData"=dword:00000000
+"SyncDisabled"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome\ExtensionInstallWhitelist]
 "1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"

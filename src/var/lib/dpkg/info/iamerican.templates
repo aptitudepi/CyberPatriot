@@ -1,8 +1,0 @@
-Template: shared/packages-ispell
-Type: text
-Description:
-
-Template: iamerican/languages
-Type: text
-Default: american (American English)
-Description:

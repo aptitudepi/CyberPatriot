@@ -1,7 +1,0 @@
-01c20c88aff4bfe697759f5a4757f2c4  usr/lib/python3/dist-packages/gi/overrides/Gst.py
-e3524e782fbd76439da21b7cadfe7b5f  usr/lib/python3/dist-packages/gi/overrides/GstPbutils.py
-acd4c2034907ee528eb7dccf4d002d34  usr/lib/python3/dist-packages/gi/overrides/_gi_gst.cpython-37m-x86_64-linux-gnu.so
-19ecf785caa5d2799243933c7935a739  usr/share/doc/python3-gst-1.0/changelog.Debian.amd64.gz
-8521cbf7472ed7c112065a08f63622ff  usr/share/doc/python3-gst-1.0/changelog.Debian.gz
-2a7c81086d56f1474a25f0b6c4f2d02c  usr/share/doc/python3-gst-1.0/changelog.gz
-05d3c6e292af81c521875a42c9366b98  usr/share/doc/python3-gst-1.0/copyright

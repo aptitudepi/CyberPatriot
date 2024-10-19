@@ -1,1 +1,0 @@
-{"Media": "Ubuntu 20.04.1 LTS \"Focal Fossa\" - Release amd64 (20200731)", "Type": "GTK", "OEM": false, "DownloadUpdates": false, "Language": "en", "Minimal": true, "RestrictedAddons": true, "Stages": {"0": "language", "11": "start_install", "22": "user_done", "959": "done"}}

@@ -1,8 +1,0 @@
-9a04ea0fa87e7237a4e651f9bdcb6c99  usr/share/doc/librngom-java/changelog.Debian.gz
-402008202b01004c934b99f9160420fc  usr/share/doc/librngom-java/copyright
-b954514626cbc27ac63cd552f5c87963  usr/share/java/rngom.jar
-685859127805dc9209eca076e73b26a9  usr/share/maven-repo/com/sun/xml/bind/external/rngom/2.3.0.1/rngom-2.3.0.1.pom
-766dbdf0af247043fcdcebd58555b42f  usr/share/maven-repo/com/sun/xml/bind/external/rngom/debian/rngom-debian.pom
-88e5a2f2c431c3b4d1314cab09ec3e6f  usr/share/maven-repo/com/sun/xml/bind/mvn/jaxb-external-parent/2.3.0.1/jaxb-external-parent-2.3.0.1.pom
-7a99430ebaafbf538b54bdf8eaba2dd2  usr/share/maven-repo/com/sun/xml/bind/mvn/jaxb-external-parent/debian/jaxb-external-parent-debian.pom
-78629aa2fad15f2a1fcb3f1ba95e446a  usr/share/maven-repo/org/kohsuke/rngom/rngom/debian/rngom-debian.pom

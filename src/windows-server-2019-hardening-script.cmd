@@ -392,8 +392,8 @@ wmic /interactive:off nicconfig where TcpipNetbiosOptions=1 call SetTcpipNetbios
 powershell.exe Disable-WindowsOptionalFeature -Online -FeatureName smb1protocol
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\mrxsmb10" /v Start /t REG_DWORD /d 4 /f
 :: Disable Powershellv2
-::powershell.exe Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2
-::powershell.exe Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2Root
+powershell.exe Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2
+powershell.exe Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2Root
 ::
 ::#######################################################################
 :: Harden lsass to help protect against credential dumping (Mimikatz)
@@ -646,3 +646,5 @@ Auditpol /set /subcategory:"Filtering Platform Policy Change" /success:disable /
 Auditpol /set /subcategory:"Security State Change" /success:enable /failure:enable
 Auditpol /set /subcategory:"Security System Extension" /success:enable /failure:enable
 Auditpol /set /subcategory:"System Integrity" /success:enable /failure:enable
+cmd /c wmic service get name,displayname,pathname,startmode |findstr /i "auto" |findstr /i /v "c:\windows\\" |findstr /i /v """
+

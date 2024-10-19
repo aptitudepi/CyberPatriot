@@ -6,8 +6,12 @@
 "What do you want to do today?"
 $ConfirmPreference = 'None'
 
-#adjust this variable to user running this script
-$user = 'ADJUSTMEBEFORERUNNING'
+# Auto Grab Username
+$explorerProcess = Get-WmiObject Win32_Process -Filter "name = 'explorer.exe'"
+$user = $explorerProcess.GetOwner().User
+
+# Manually Set Username
+#$user = 'ADJUSTMEBEFORERUNNING'
 
 $option = Read-Host '
 1. File Dump & LockDown Nuke
